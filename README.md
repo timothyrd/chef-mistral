@@ -1,12 +1,21 @@
-# React + Vite
+# 👨‍🍳 Chef Mistral 🥘
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🌟 Project Overview
+Chef Mistral is an innovative cooking companion that helps you create delicious recipes using the ingredients you have on hand! Simply enter your available ingredients, and let AI-powered magic transform them into a mouth-watering meal.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+**🥬 Ingredient Input:** Add at least 4 ingredients you have in your kitchen <br>
+**🤖 AI-Powered Recipes:** Utilizes Hugging Face's Mistral AI to generate unique recipes
 
-## Expanding the ESLint configuration
+## 🚀 How It Works
+- 🥕🍗 Enter a minimum of 4 ingredients
+- 🖱️👆  Click "Get Recipe"
+- 🧑‍🍳 Wait to Mistral AI generates a custom recipe
+- 📖✨ Read and enjoy your personalized cooking instructions
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+- React
+- Vite
+- Hugging Face API
+- Mistral AI
